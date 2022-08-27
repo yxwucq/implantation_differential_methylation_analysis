@@ -1,0 +1,7 @@
+/data
+data/
+output_data/
+*.bed
+*.bedgraph
+tmpfile
+*.xls
