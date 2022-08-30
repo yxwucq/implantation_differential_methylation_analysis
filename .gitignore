@@ -5,3 +5,5 @@ output_data/
 *.bedgraph
 tmpfile
 *.xls
+*.e[1-9]*
+*.o[1-9]*
